@@ -1,0 +1,12 @@
+#: weblate/media/js/bootstrap-datepicker.js:1421
+msgid "Monday"
+msgstr "Pondělí"
+
+#: weblate/media/js/bootstrap-datepicker.js:1421
+msgid "Tuesday"
+msgstr "Úterý"
+
+#: weblate/accounts/avatar.py:163
+msgctxt "No known user"
+msgid "None"
+msgstr "Žádný"

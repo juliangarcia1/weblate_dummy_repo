@@ -10,3 +10,8 @@ msgstr "Úterý"
 msgctxt "No known user"
 msgid "None"
 msgstr "Žádný"
+
+#: weblate/accounts/something.py:163
+msgctxt "Someone"
+msgid "Laugh"
+msgstr "Žádnýsky"
